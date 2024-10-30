@@ -1,0 +1,12 @@
+{"level":"info","message":"Express server with Kafka consumer running on port 5000","timestamp":"2024-10-30T09:39:04.922Z"}
+{"level":"info","message":"Express server with Kafka consumer running on port 5000","timestamp":"2024-10-30T11:54:21.552Z"}
+{"level":"info","message":"Express server with Kafka consumer running on port 5000","timestamp":"2024-10-30T11:58:16.679Z"}
+{"level":"info","message":"Express server with Kafka consumer running on port 5000","timestamp":"2024-10-30T12:37:44.120Z"}
+{"level":"info","message":"Express server with Kafka consumer running on port 5000","timestamp":"2024-10-30T12:37:58.301Z"}
+{"level":"info","message":"Express server with Kafka consumer running on port 5000","timestamp":"2024-10-30T12:43:42.648Z"}
+{"level":"info","message":"Express server with Kafka consumer running on port 5000","timestamp":"2024-10-30T13:29:00.519Z"}
+{"level":"info","message":"Express server with Kafka consumer running on port 5000","timestamp":"2024-10-30T14:58:16.656Z"}
+{"level":"info","message":"Express server with Kafka consumer running on port 5000","timestamp":"2024-10-30T15:18:04.811Z"}
+{"level":"info","message":"Express server with Kafka consumer running on port 5000","timestamp":"2024-10-30T15:25:20.119Z"}
+{"level":"info","message":"Received Kafka message: {\"timestamp\": 1730302201.549763, \"price\": 51.00365484033066}","timestamp":"2024-10-30T15:30:01.555Z"}
+{"level":"info","message":"Received Kafka message: {\"timestamp\": 1730302206.566895, \"price\": 81.18235826152083}","timestamp":"2024-10-30T15:30:06.572Z"}
